@@ -83,3 +83,12 @@ h3 {
   font-variant: small-caps;
 }
 
+body {
+  font-style: italic;
+}
+
+main {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+}
+
