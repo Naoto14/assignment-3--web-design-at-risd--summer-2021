@@ -115,3 +115,56 @@ img {
   margin-left: 1000px;
 }
 
+@media (max-width: 930px) {
+  header {
+    margin-left: 30px;
+    color: white;
+    width: 830px;
+    background-color: #ff7f50;
+  }
+
+  body {
+    margin-left: 10px;
+    width: 600px;
+    background-color: #ff7f50;
+  }
+
+  .box {
+    border-top: solid 2px white;
+    border-bottom: solid 2px white;
+  }
+
+  .box:before, .box:after {
+    background-color: white;
+  }
+
+  h3 {
+    color: white;
+  }
+
+  .number {
+    margin-left: 10px;
+    color: white;
+  }
+
+  h5 {
+    margin-left: 120px;
+  }
+
+  .headline {
+    font-size: 30px;
+    margin-left: 10px;
+  }
+
+  p {
+    margin-top: -130px;
+    margin-left: 140px;
+    width: 500px;
+  }
+
+  img {
+    width: 180px;
+    margin-top: -35px;
+    margin-left: 670px;
+  }
+}
