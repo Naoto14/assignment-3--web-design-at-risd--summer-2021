@@ -5,3 +5,11 @@ html {
   margin-right: auto;
 }
 
+header {
+  font-variant: small-caps;
+  color: #ff7f50;
+  font-family: inconsolate;
+  text-shadow: 1px 0 3px #ff7f50;
+  width: 1210px;
+}
+
