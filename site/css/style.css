@@ -13,3 +13,9 @@ header {
   width: 1210px;
 }
 
+h1 {
+  font-size: 80px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
