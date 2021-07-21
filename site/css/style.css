@@ -99,3 +99,14 @@ h5 {
   margin-right: 10px;
 }
 
+p {
+  font-style: normal;
+  line-height: 150%;
+  width: 510px;
+  overflow-wrap: break-word;
+  margin-top: -100px;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  margin-right: 10px;
+}
+
